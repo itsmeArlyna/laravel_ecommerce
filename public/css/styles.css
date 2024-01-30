@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+body{
+    padding: 1%;
+    font-family: 'Poppins', sans-serif;
+    background-color: rgba(198, 198, 198, 0.294);
+}
+h1{
+    color: rgba(0, 0, 0, 0.727);
+}
+#create a{
+    color: #fff;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+#action a{
+    color: rgb(69, 164, 1);
+}
+.card{
+    box-shadow: rgba(9, 30, 66, 0.25) 0px 1px 1px, rgba(9, 30, 66, 0.13) 0px 0px 1px 1px;
+}
+td img{
+    width: 4rem;
+}
+table{
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+.home-card img{
+    width: 40%;
+    margin: auto;
+}
+.home-card:hover{
+    transform: scale(1.05);
+}
+.home-card{
+    transition: 0.3s;
+    height: 18rem;
+    padding: 3%;
+}
+#inventoryback:hover{
+    color: rgb(8, 0, 255);
+}
